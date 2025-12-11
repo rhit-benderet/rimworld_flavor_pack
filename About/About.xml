@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>OceanicOxen.FlavorPack</packageId>
+	<name>OceanicOxen's Flavor Pack</name>
+	<author>OceanicOxen</author>
+	<supportedVersions>
+    	<li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+    	<li>Ludeon.RimWorld.Anomaly</li>
+    	<li>Ludeon.RimWorld</li>
+    	<li>Ludeon.RimWorld.Biotech</li>
+    	<li>Ludeon.RimWorld.Odyssey</li>
+    	<li>Ludeon.RimWorld.Ideology</li>
+    	<li>Ludeon.RimWorld.Royalty</li>
+    	<li>brrainz.harmony</li>
+  	</loadAfter>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+
+	<incompatibleWith>
+		<!-- <li>username.modname</li> -->
+	</incompatibleWith>
+
+	<description>Used as a mod where I can dump a bunch of small features I want for colony lore purposes. Everything is togglable and defaults to being off.</description>
+</ModMetaData>
