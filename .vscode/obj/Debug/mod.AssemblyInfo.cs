@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OceanicOxen.FlavorPack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0.0+196f95c43815f57f078bf7ddf3f2013d06f236b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0.0+a153e487c0a6075c8892f3b6a7c7a25a56cdbfe8")]
 [assembly: System.Reflection.AssemblyProductAttribute("OceanicOxen.FlavorPack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OceanicOxen.FlavorPack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.0.0")]

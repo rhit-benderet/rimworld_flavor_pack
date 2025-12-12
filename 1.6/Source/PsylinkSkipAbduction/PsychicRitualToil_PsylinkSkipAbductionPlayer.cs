@@ -116,6 +116,10 @@ namespace OOFlavorPack
             Hediff hediff = HediffMaker.MakeHediff(HediffDefOf.DarkPsychicShock, pawn);
             hediff.TryGetComp<HediffComp_Disappears>().ticksToDisappear = ticksToDisappear;
             pawn.health.AddHediff(hediff);
+            if (pawn.guest != null)
+            {
+                pawn.kindDef.initialResistanceRange *= 2f;
+            }
             pawn.needs?.mood?.thoughts?.memories?.TryGainMemory(ThoughtDefOf.PsychicRitualVictim);
             TaggedString text = "SkipAbductionPlayerCompleteText".Translate(invoker.Named("INVOKER"), psychicRitual.def.Named("RITUAL"), pawn.Named("TARGET"), pawn.Faction.Named("FACTION"));
             Find.LetterStack.ReceiveLetter("PsychicRitualCompleteLabel".Translate(psychicRitual.def.label), text, LetterDefOf.NeutralEvent, new LookTargets(pawn));

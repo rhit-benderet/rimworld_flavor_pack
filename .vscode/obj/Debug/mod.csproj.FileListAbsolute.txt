@@ -5,3 +5,10 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OceanicOxen Flavor P
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OceanicOxen Flavor Pack\.vscode\obj\Debug\mod.csproj.CoreCompileInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OceanicOxen Flavor Pack\1.6\Assemblies\OceanicOxen.FlavorPack.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OceanicOxen Flavor Pack\.vscode\obj\Debug\OceanicOxen.FlavorPack.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\rimworld_flavor_pack\1.6\Assemblies\OceanicOxen.FlavorPack.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\rimworld_flavor_pack\.vscode\obj\Debug\mod.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\rimworld_flavor_pack\.vscode\obj\Debug\mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\rimworld_flavor_pack\.vscode\obj\Debug\mod.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\rimworld_flavor_pack\.vscode\obj\Debug\mod.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\rimworld_flavor_pack\.vscode\obj\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\rimworld_flavor_pack\.vscode\obj\Debug\OceanicOxen.FlavorPack.dll
